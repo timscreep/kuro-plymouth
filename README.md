@@ -5,7 +5,7 @@
     <img alt="kuro the cat" src="a2n.kuro/contents/splash/images/cat.gif" width="220"/>
   </a>
 </p>
-<h1 align="center">Kuro <i>- a plasma splashscreen</i></h1>
+<h1 align="center">Kuro - Plymouth theme </h1>
 
 ## Description
 

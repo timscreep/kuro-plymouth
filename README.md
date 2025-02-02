@@ -34,7 +34,7 @@ git clone https://github.com/timscreep/kuro-plymouth.git
 
 - After cloning or downloading your desired theme simply copy and paste your desired Theme to
 ```bash
-/usr/share/plymouth/themes/
+sudo cp -r kuro-plymouth /usr/share/plymouth/themes/
 ```
 
 - Now just set your desired theme as default Plymouth theme and make sure to rebuild `initrd` for that just use command given below ▼

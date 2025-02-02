@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Kuro Cat Plymouth Theme
+Description=Plymouth theme inspired by Kuro Cat
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/kuro-plymouth/images
+ScriptFile=/usr/share/plymouth/themes/kuro-plymouth/kuro-plymouth.script

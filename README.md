@@ -41,5 +41,11 @@ sudo cp -r kuro-plymouth /usr/share/plymouth/themes/
 ```bash  
 sudo plymouth-set-default-theme kuro-plymouth -R 
 ```
-
+## One line installation
+```bash
+sudo mkdir /usr/share/plymouth/themes/
+git clone https://github.com/timscreep/kuro-plymouth.git
+sudo cp -r kuro-plymouth /usr/share/plymouth/themes/
+sudo plymouth-set-default-theme kuro-plymouth -R
+```
 
